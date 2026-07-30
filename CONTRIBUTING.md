@@ -48,6 +48,33 @@ Please keep contributions organized under the relevant topic, for example:
 
 If you're unsure where something belongs, open an issue to ask or mention it in your PR description — a maintainer will help you sort it out.
 
+## Formatting
+
+In every document, ensure you have the following
+
+* A clear title indicating what this page is about
+* Relevant subject area
+* Original Author and their contact, i.e Github Link
+* Any editors
+* Table of Content with markdown links
+
+A sample entry should be formatted like this
+
+```markdown
+# Title
+Relevant areas: Area1, Area2...
+
+>[!Note]
+> Originally Written by [Orginal Author](contact link i.e Github): Last Updated - Rough Date is fine
+> Authors: Author1, Author2...
+
+### Table of Content
+* [Heading Name](#heading-name-in-markdown) #Use LSP
+* [Heading 2 Name](#heading2-name-in-markdown)
+
+L
+```
+
 ## Guidelines
 
 - **Keep it beginner-friendly.** Many contributors and readers are early in their IT journey — explain acronyms and avoid assuming prior knowledge where possible.
