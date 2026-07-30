@@ -6,7 +6,12 @@
 Welcome to the Joint Workshop Repository between UC DEVS, UC ROBO & UC Cybersecurity. Here is a list of awesome things curated by the community of IT Students across the different IT Clubs at the University of Canberra. 
 
 # Table of Contents
-## Foundational
+## Student Portfolios
+### Websites
+* [Jimmy Beaton](https://jimmybeaton.com/)
+### Individual Projects
+## Workshops
+### Foundational
 * [Introduction to Programming](./Foundations/ProgrammingIntro/README.md)
 > Getting started with programming can be intimidating before you've even written a line of code — half the battle is just getting your tools set up right. This workshop walks you through the essential groundwork every programmer needs: installing and properly configuring programming languages, understanding your system PATH, and setting up VS Code as your development environment. From there, we'll cover how to debug your code effectively (a skill just as important as writing it), work through a basic introduction to Python, and learn how to read technical documentation so you can keep learning independently long after the workshop ends. Whether you've never coded before or just want to build a more solid foundation, this session will leave you ready to start writing and troubleshooting real programs.
 * [Introduction to Linux](./Foundations/LinuxIntro/README.md)
