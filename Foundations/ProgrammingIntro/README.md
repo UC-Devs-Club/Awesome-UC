@@ -1,0 +1,4 @@
+# Introduction to Programming
+Originally Written by [Ruhan Shafi](https://github.com/RuhanShafi): Last Updated Semester 2 2026
+
+Getting started with programming can be intimidating before you've even written a line of code — half the battle is just getting your tools set up right. This workshop walks you through the essential groundwork every programmer needs: installing and properly configuring programming languages, understanding your system PATH, and setting up VS Code as your development environment. From there, we'll cover how to debug your code effectively (a skill just as important as writing it), work through a basic introduction to Python, and learn how to read technical documentation so you can keep learning independently long after the workshop ends. Whether you've never coded before or just want to build a more solid foundation, this session will leave you ready to start writing and troubleshooting real programs.
