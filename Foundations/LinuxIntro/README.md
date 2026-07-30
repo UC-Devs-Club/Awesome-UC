@@ -1,7 +1,11 @@
 # Introduction to Linux
-Originally Written by [Ruhan Shafi](https://github.com/RuhanShafi): Last Updated Semester 2 2026
+>[!Note]
+> Originally Written by [Ruhan Shafi](https://github.com/RuhanShafi): Last Updated Semester 2 2026
 
-Linux powers everything from servers to smartphones, yet it's often overlooked by everyday users. This workshop breaks down what Linux actually is and why it's worth exploring — whether you're a programmer looking for a more powerful development environment, a casual user curious about alternatives to Windows, or a creative professional wanting more control over your tools. We'll cover low-risk ways to try Linux without giving up Windows (like live USBs, virtual machines, and dual booting), explain what distros are and how to choose one, and finish with hands-on basic terminal usage so you can start navigating a Linux system with confidence. No prior experience needed — just curiosity.
+### Table of Content
+* [What is Linux?](#what-is-linux)
+
+Linux powers everything from servers to smartphones, yet it's often overlooked by everyday users. This workshop breaks down what Linux actually is and why it's worth exploring — whether you're a programmer looking for a more powerful development environment, a casual user curious about alternatives to Windows, or a creative professional wanting more control over your tools. We'll cover low-risk ways to try Linux without giving up Windows (like live USBs, virtual machines, and dual booting), explain what distros are and how to choose one, and finish with hands-on basic terminal usage so you can start navigating a Linux system with confidence. No prior experience needed - just curiosity.
 
 ### What is Linux?
 
