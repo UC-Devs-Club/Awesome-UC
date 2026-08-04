@@ -71,8 +71,6 @@ Relevant areas: Area1, Area2...
 ### Table of Content
 * [Heading Name](#heading-name-in-markdown) #Use LSP
 * [Heading 2 Name](#heading2-name-in-markdown)
-
-L
 ```
 
 ## Guidelines
