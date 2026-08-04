@@ -119,4 +119,38 @@ Another great option is installing Linux fully onto an external/removable SSD ra
 | `man <command>` | Opens the manual/help page for a command |
 | `exit` | Closes the terminal session |
 
-Want me to trim this down to just the essentials for a beginner audience, or turn it into a printable cheat sheet artifact instead?
+
+## Choosing & Getting Started
+
+### Distro Recommendations by Audience
+
+With hundreds of Linux distributions out there, picking one can feel overwhelming — but it really comes down to matching a distro to what you want out of it:
+
+- **New to Linux? → Linux Mint or Ubuntu**
+  These are the most beginner-friendly distros around, with straightforward installers, huge community support, and sane defaults out of the box. Almost every "how do I fix X on Linux" guide online assumes Ubuntu, so troubleshooting is easy. Great for casual users and anyone dipping their toes in for the first time.
+
+- **Want something modern and polished? → Fedora**
+  Fedora tends to ship newer software and kernel versions than Mint/Ubuntu, giving you a more up-to-date, cutting-edge experience while still being stable and well-supported. It's a great middle ground for people who want modern features without diving into more advanced/DIY territory.
+
+- **Want to really learn how Linux works? → Arch Linux**
+  Arch doesn't hold your hand — you install it piece by piece, choosing your own desktop environment, drivers, and tools along the way. It's more hands-on and has a steeper learning curve, but that's exactly the appeal: you come out the other side genuinely understanding your system instead of just using it. Best suited for people who enjoy tinkering or want to deepen their technical skills (this is what I personally run, and it's taught me a lot).
+
+- **Other honorable mentions:**
+  - **Pop!_OS** — Ubuntu-based, great out-of-the-box support for gaming and Nvidia GPUs
+  - **Debian** — the rock-solid foundation many other distros (including Ubuntu) are built on
+  - **Kali Linux** — purpose-built for cybersecurity and penetration testing (relevant for the UC Cybersecurity crowd!)
+
+There's no permanently "wrong" choice here — most people start with something beginner-friendly and naturally migrate toward something more advanced as they get comfortable.
+
+### Desktop Environments
+
+One thing that surprises a lot of newcomers: Linux doesn't have one fixed "look." Unlike Windows or macOS, the desktop environment (DE) that you choose which is the whole visual interface, taskbar, icons, and window behavior, is separate from the OS itself, and you can customize it however you want and even run mutliple swapping to which one you prefer the most. [Here's some of the different ways that you can customize your Linux Desktop](https://www.reddit.com/r/unixporn/)
+
+- **GNOME** — Clean, modern, and minimalist, with a workflow built around full-screen "activities" and virtual desktops rather than a traditional taskbar. Used by default on Ubuntu and Fedora.
+- **KDE Plasma** — Highly customizable and visually flexible, closer to a traditional desktop feel (taskbar, start menu-like launcher) but with far more configuration options than Windows offers out of the box.
+- **XFCE** — Lightweight and fast, ideal for older hardware or anyone who prefers a snappier, no-frills experience over flashy visuals.
+- **Cinnamon** — Mint's default DE, designed to feel immediately familiar to Windows users transitioning over.
+- **Hyprland** — A tiling window manager (rather than a traditional DE) that arranges windows automatically instead of letting them float freely — popular with people who want a fast, keyboard-driven, highly customized setup (this is what Dylan and Me personally use).
+
+The takeaway for the audience: installing "Linux" isn't installing one fixed interface — you're choosing a combination of distro *and* desktop environment, and most distros let you install multiple DEs and switch between them at login if you want to swap.
+
