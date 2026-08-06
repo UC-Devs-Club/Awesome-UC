@@ -9,8 +9,9 @@
 * [Why should you use Linux?](#why-should-you-use-linux)
 * [How to try out Linux without getting rid of your current OS](#trying-out-linux-without-getting-rid-of-your-current-os)
 * [Foundations Terminal Commands](#fundamental-terminal-commands)
+* [Getting started with Linux](#choosing-your-distro-getting-started)
 
-Linux powers everything from servers to smartphones, yet it's often overlooked by everyday users. This workshop breaks down what Linux actually is and why it's worth exploring — whether you're a programmer looking for a more powerful development environment, a casual user curious about alternatives to Windows, or a creative professional wanting more control over your tools. We'll cover low-risk ways to try Linux without giving up Windows (like live USBs, virtual machines, and dual booting), explain what distros are and how to choose one, and finish with hands-on basic terminal usage so you can start navigating a Linux system with confidence. No prior experience needed - just curiosity.
+Linux powers everything from servers to smartphones, yet it's often overlooked by everyday users. This workshop breaks down what Linux actually is and why it's worth using compared to traditional options such as Windows and MacOS; whether you're a programmer looking for a more powerful development environment, a casual user curious about alternatives to Windows, or a creative professional wanting more control over your tools. We'll cover low-risk ways to try Linux without giving up Windows (like live USBs, virtual machines, and dual booting), explain what distros are and how to choose one, and finish with hands-on basic terminal usage so you can start navigating a Linux system with confidence.
 
 ### What is Linux?
 
@@ -120,25 +121,25 @@ Another great option is installing Linux fully onto an external/removable SSD ra
 | `exit` | Closes the terminal session |
 
 
-## Choosing & Getting Started
+## Choosing your Distro & Getting Started
 
 ### Distro Recommendations by Audience
 
 With hundreds of Linux distributions out there, picking one can feel overwhelming — but it really comes down to matching a distro to what you want out of it:
 
-- **New to Linux? → Linux Mint or Ubuntu**
-  These are the most beginner-friendly distros around, with straightforward installers, huge community support, and sane defaults out of the box. Almost every "how do I fix X on Linux" guide online assumes Ubuntu, so troubleshooting is easy. Great for casual users and anyone dipping their toes in for the first time.
+- **New to Linux?? Consider Linux Mint or Ubuntu**
+  These are the most beginner-friendly distros around, with straightforward installers, huge community support, and everything working straight out of the box. Almost every "how do I fix X on Linux" guide online assumes Ubuntu, so troubleshooting is easy. Great for casual users and anyone dipping their toes in for the first time.
 
-- **Want something modern and polished? → Fedora**
-  Fedora tends to ship newer software and kernel versions than Mint/Ubuntu, giving you a more up-to-date, cutting-edge experience while still being stable and well-supported. It's a great middle ground for people who want modern features without diving into more advanced/DIY territory.
+- **Want something modern and polished? Consider Fedora**
+  Fedora tends to ship newer software and kernel versions than Mint/Ubuntu, giving you a more up-to-date, cutting-edge experience while still being stable and well-supported. It's a great middle ground for people who want modern features without diving into more advanced/DIY territory. Additionally this is actual the Distro that Linus Torvalds uses! 
 
-- **Want to really learn how Linux works? → Arch Linux**
-  Arch doesn't hold your hand — you install it piece by piece, choosing your own desktop environment, drivers, and tools along the way. It's more hands-on and has a steeper learning curve, but that's exactly the appeal: you come out the other side genuinely understanding your system instead of just using it. Best suited for people who enjoy tinkering or want to deepen their technical skills (this is what I personally run, and it's taught me a lot).
+- **Want to really learn how Linux works? Consider Arch Linux (I use Arch BTW)**
+  Arch doesn't hold your hand which can be a double edged sword. You install it piece by piece, choosing your own desktop environment, drivers, and tools along the way meaning that nearly everything in your install of Arch is something you installed, which means practically no bloat and everything is configurable. It's more hands-on and has a steeper learning curve, but that's exactly the appeal: you come out the other side genuinely understanding your system instead of just using it. Best suited for people who enjoy tinkering or want to deepen their technical skills (this is what I personally run, and it's taught me a lot).
 
 - **Other honorable mentions:**
-  - **Pop!_OS** — Ubuntu-based, great out-of-the-box support for gaming and Nvidia GPUs
-  - **Debian** — the rock-solid foundation many other distros (including Ubuntu) are built on
-  - **Kali Linux** — purpose-built for cybersecurity and penetration testing (relevant for the UC Cybersecurity crowd!)
+  - **Pop!_OS** - Debian-based, great out-of-the-box support for gaming and Nvidia GPUs
+  - **Debian** - the rock-solid foundation many other distros (including Ubuntu) are built on
+  - NixOS - a unique Linux distribution built around the purely functional Nix package manager. Instead of modifying files across the system over time, you write text configuration files that declare every part of your operating system
 
 There's no permanently "wrong" choice here — most people start with something beginner-friendly and naturally migrate toward something more advanced as they get comfortable.
 
