@@ -35,7 +35,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RuhanShafi"><img src="https://avatars.githubusercontent.com/u/126881537?v=4?s=100" width="100px;" alt="Ruhan Shafi"/><br /><sub><b>Ruhan Shafi</b></sub></a><br /><a href="https://github.com/UC-Devs-Club/Awesome-UC/commits?author=RuhanShafi" title="Documentation">📖</a> <a href="#content-RuhanShafi" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RuhanShafi"><img src="https://avatars.githubusercontent.com/u/126881537?v=4?s=100" width="100px;" alt="Ruhan Shafi"/><br /><sub><b>Ruhan Shafi</b></sub></a><br /><a href="https://github.com/UC-Devs-Club/Awesome-UC/commits?author=RuhanShafi" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
@@ -55,3 +55,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+--- 
+License
+
+This repository uses a dual-license structure:
+
+💻 Code, scripts, and configs are licensed under the MIT License.
+📄 Workshop content, guides, and documentation are licensed under CC BY 4.0.
+
+In short: use, remix, and share anything here — just credit UC DEVS, UC ROBO, and UC Cybersecurity when you do. See the linked license files for full details.
