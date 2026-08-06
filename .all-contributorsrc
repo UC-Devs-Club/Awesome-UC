@@ -1,0 +1,26 @@
+{
+  "projectName": "Awesome-UC",
+  "projectOwner": "UC-Devs-Club",
+  "repoType": "github",
+  "repoHost": "",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "RuhanShafi",
+      "name": "Ruhan Shafi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126881537?v=4",
+      "profile": "https://github.com/RuhanShafi",
+      "contributions": [
+        "doc",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
+}
