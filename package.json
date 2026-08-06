@@ -1,0 +1,32 @@
+{
+  "name": "ucdev-workshops",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section --> [![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-) <!-- ALL-CONTRIBUTORS-BADGE:END -->     <h1>【 Awesome UC 】</h1>     <h3> University of Canberra's Student led Workshops Repository</h3> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UC-Devs-Club/UC-IT-CLUB-WORKSHOP.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/UC-Devs-Club/UC-IT-CLUB-WORKSHOP/issues"
+  },
+  "homepage": "https://github.com/UC-Devs-Club/UC-IT-CLUB-WORKSHOP#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^21.2.1",
+    "@commitlint/config-conventional": "^21.2.0",
+    "commitizen": "^4.3.2",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^8.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
