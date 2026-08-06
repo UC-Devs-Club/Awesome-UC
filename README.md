@@ -15,6 +15,7 @@ Welcome to the Joint Workshop Repository between UC DEVS, UC ROBO & UC Cybersecu
 ### Foundational
 * [Introduction to Programming](./Foundations/ProgrammingIntro/README.md)
 * [Introduction to Linux](./Foundations/LinuxIntro/README.md)
+* [Introduction to Git & Github](/Foundations/GitIntro/README.md)
 ## Machine Learning
 ## Networking
 * [Introduction to Proxmox](./Networking/Proxmox/)

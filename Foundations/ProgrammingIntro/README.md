@@ -33,9 +33,9 @@ Additionally, some languages (like Java, and to an extent Python) are actually a
 - **System-wide installs** put one version of a language on your machine, available everywhere. Simple, but it becomes a problem the moment two projects need different versions.
 - **Version managers** — tools like `pyenv` (Python), `nvm` (Node.js), or `rbenv` (Ruby) — let you install multiple versions side by side and switch between them per-project. This avoids a very common real-world headache: "this project needs Python 3.9, but I only have 3.12 installed."
 
-For a beginner workshop, a system-wide install is completely fine to start with — but flagging that version managers exist means people aren't blindsided later when a tutorial or job suddenly requires a specific version.
+A system-wide install is completely fine to start with but version managers exist if tutorial or job suddenly requires a specific version.
 
-**Also worth a mention:** always install from the *official* source (python.org, nodejs.org, etc.) or your OS's package manager if you're using Linux which will be covered in the following workshop. Never install from a random third-party download link, which is a common source of malware for beginners who don't know better.
+Always install from the *official* source (python.org, nodejs.org, etc.) or your OS's package manager if you're using Linux which will be covered in the following workshop. Never install from a random third-party download link, which is a common source of malware for beginners who don't know better.
 
 
 ### What PATH Actually Is
