@@ -81,6 +81,68 @@ Relevant areas: Area1, Area2...
 - **One topic per pull request.** This makes reviews faster and easier to merge.
 - **Be respectful.** This is a community space across three clubs — keep discussions constructive and welcoming to all skill levels.
 
+## Commit Message Guidelines
+
+This repo follows the **Angular commit convention** (a.k.a. [Conventional Commits](https://www.conventionalcommits.org/)). It keeps our history readable across three clubs contributing in parallel, and is enforced automatically on every commit via `commitlint` + `husky` — a badly formatted commit message will be rejected before it's even made.
+
+### Format
+
+```
+<type>(<scope>): <short description>
+
+<optional longer body>
+
+<optional footer, e.g. Closes #12>
+```
+
+### Types
+
+| Type | Use for |
+|---|---|
+| `feat` | Adding a new workshop, resource, or feature |
+| `fix` | Fixing a typo, broken link, or bug in example code |
+| `docs` | Documentation-only changes (README, CONTRIBUTING, etc.) |
+| `style` | Formatting changes with no logic/content change |
+| `refactor` | Restructuring content/code without changing behavior |
+| `chore` | Repo maintenance — config, CI, dependencies |
+| `content` | Adding or editing workshop write-ups specifically |
+
+### Scope
+
+Scope is optional but encouraged given our repo spans three clubs — use a club (`devs`, `robo`, `cyber`) or a workshop name (`intro-to-linux`, `intro-to-programming`).
+
+### Examples
+
+```
+docs(intro-to-programming): add virtual environments section
+feat(robo): add sensor calibration workshop
+fix(intro-to-linux): correct dual boot partitioning steps
+content(cyber): add bushbash CTF writeup
+chore: add all-contributors bot config
+```
+
+### Linking Issues
+
+If your commit closes an open issue, add a footer:
+
+```
+fix(intro-to-linux): correct dual boot partitioning steps
+
+Clarified drive backup warning before partitioning instructions.
+
+Closes #14
+```
+
+### Guided Commits
+
+Don't want to memorize the format? Run this instead of `git commit`:
+
+```bash
+npx cz
+```
+
+It'll walk you through type → scope → description → footer step by step and build the message for you.
+
 ## Pull Request Checklist
 
 Before submitting, please check that:
@@ -89,7 +151,46 @@ Before submitting, please check that:
 - [ ] File names and folder structure follow existing conventions
 - [ ] Any code included has been tested and runs as expected
 - [ ] Markdown files are free of broken links or formatting errors
-- [ ] You've added your name/club to the contributor list (if one exists) or workshop credits, if applicable
+- [ ] Your commit messages follow the [Angular convention](#commit-message-guidelines)
+- [ ] You've requested credit via the All Contributors bot (see below), if applicable
+
+## Getting Credited (All Contributors)
+
+This repo uses the [All Contributors](https://allcontributors.org/) bot to recognize everyone who helps out — not just people who write code. Documentation, workshop content, design, ideas, mentoring, and reviewing PRs all count.
+
+To add yourself (or someone else) as a contributor, comment on any Issue or Pull Request with:
+
+```
+@all-contributors please add @<github-username> for <contribution-type>
+```
+
+For example:
+
+```
+@all-contributors please add @ruhanshafi for doc, content
+```
+
+The bot will open a PR automatically updating the README's contributor table — just wait for it to be merged by a maintainer.
+
+**Contribution types used in this repo:**
+
+| Type | Use for |
+|---|---|
+| `code` | Scripts, configs, example code |
+| `doc` | README, CONTRIBUTING, setup guides |
+| `content` | Workshop write-ups and curriculum |
+| `design` | Slides, diagrams, visual assets |
+| `ideas` | Suggesting workshop topics or direction |
+| `review` | Reviewing pull requests |
+| `talk` | Presenting a workshop live |
+| `eventOrganizing` | Organizing/running a workshop session |
+| `mentoring` | Helping other students during a workshop |
+| `bug` | Reporting issues |
+| `security` | Security-related contributions (UC Cybersecurity) |
+
+See the [full contribution type list](https://allcontributors.org/docs/en/emoji-key) for others not listed here.
+
+You can request multiple types at once, comma-separated, and you can request this for yourself or on behalf of another contributor who helped but hasn't been added yet.
 
 ## Reporting Issues
 
@@ -104,3 +205,4 @@ Found a bug, typo, or outdated instruction? Open an [Issue](../../issues) descri
 If anything is unclear, reach out through your club's Discord/Slack, or open a discussion/issue in this repo — someone from UC DEVS, UC ROBO, or UC Cybersecurity will be happy to help.
 
 Thanks for helping build something useful for the UC IT student community! 🎉
+

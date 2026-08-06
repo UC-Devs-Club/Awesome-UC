@@ -23,7 +23,7 @@ Welcome to the Joint Workshop Repository between UC DEVS, UC ROBO & UC Cybersecu
 ## Robotics
 ## Networking
 ### Self Hosting
-* [# Introduction to Remote VPN Connections via Tailscale](/Networking/SelfHosting/IntroToTailScaleVPN.md)
+* [Introduction to Remote VPN Connections via Tailscale](/Networking/SelfHosting/IntroToTailScaleVPN.md)
 
 ## Contributors ✨
 
@@ -57,7 +57,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 --- 
-License
+
+### License
 
 This repository uses a dual-license structure:
 
