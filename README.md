@@ -23,6 +23,8 @@ Welcome to the Joint Workshop Repository between UC DEVS, UC ROBO & UC Cybersecu
 ## Machine Learning
 ## Robotics
 ## Networking
+## Linux
+* [How to Install Matlab on Linux](./Linux/MatlabLinux/README.md)
 ### Self Hosting
 * [Introduction to Remote VPN Connections via Tailscale](/Networking/SelfHosting/IntroToTailScaleVPN.md)
 
@@ -36,7 +38,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RuhanShafi"><img src="https://avatars.githubusercontent.com/u/126881537?v=4?s=100" width="100px;" alt="Ruhan Shafi"/><br /><sub><b>Ruhan Shafi</b></sub></a><br /><a href="https://github.com/UC-Devs-Club/Awesome-UC/commits?author=RuhanShafi" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RuhanShafi"><img src="https://avatars.githubusercontent.com/u/126881537?v=4?s=100" width="100px;" alt="Ruhan Shafi"/><br /><sub><b>Ruhan Shafi</b></sub></a><br /><a href="https://github.com/UC-Devs-Club/Awesome-UC/commits?author=RuhanShafi" title="Documentation">📖</a> <a href="#content-RuhanShafi" title="Content">🖋</a></td>
     </tr>
   </tbody>
   <tfoot>

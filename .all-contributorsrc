@@ -14,7 +14,10 @@
       "name": "Ruhan Shafi",
       "avatar_url": "https://avatars.githubusercontent.com/u/126881537?v=4",
       "profile": "https://github.com/RuhanShafi",
-      "contributions": ["doc"]
+      "contributions": [
+        "doc",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
