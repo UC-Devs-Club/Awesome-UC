@@ -14,16 +14,21 @@ Welcome to the Joint Workshop Repository between UC DEVS, UC ROBO & UC Cybersecu
 ### Websites
 * [Jimmy Beaton](https://jimmybeaton.com/)
 ### Individual Projects
-* [DOSSIER 13 — Agency Intranet CTF (UC DEVS CTF 2026)](https://github.com/UC-Devs-Club/D13-UC-Devs-CTF-2026)
+* [DOSSIER 13 — Agency Intranet CTF - UC DEVS CTF 2026](https://github.com/UC-Devs-Club/D13-UC-Devs-CTF-2026)
+* [Amathema - Dylan](https://the-dj-gamer.itch.io/amathema)
+* [Game of Life - Evan](https://www.shadertoy.com/view/cs2yzK)
+* [Fractal Tree Creator - Evan](https://github.com/Ev01/FractalTreeCreator)
+
 ## Workshops
 ### Foundational
 * [Introduction to Programming](./Foundations/ProgrammingIntro/README.md)
 * [Introduction to Linux](./Foundations/LinuxIntro/README.md)
 * [Introduction to Git & Github](/Foundations/GitIntro/README.md)
-## Machine Learning
-## Robotics
-## Networking
-## Linux
+### Machine Learning
+* [Introduction to Tensorflow](./Machine Learning/CNN_Intro/CNN_Writeup.md)
+### Networking
+* [Introduction To Virtualization & Proxmox](./Networking/Proxmox/ProxmoxIntro.md)
+### Linux
 * [How to Install Matlab on Linux](./Linux/MatlabLinux/README.md)
 ### Self Hosting
 * [Introduction to Remote VPN Connections via Tailscale](/Networking/SelfHosting/IntroToTailScaleVPN.md)
