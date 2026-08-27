@@ -96,6 +96,9 @@ git config --global core.editor "code --wait"
 git config --list
 ```
 
+> [!NOTE]
+> Make sure that on your Github account settings, your email isn't set to private as this will prevent you from properly pushing to remote
+
 > [!TIP] 
 > Use the same email here as your GitHub account, GitHub matches commits to your profile by email, so a mismatch means your contributions won't show up correctly on your GitHub profile graph.
 
