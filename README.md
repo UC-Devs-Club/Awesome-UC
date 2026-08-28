@@ -30,6 +30,8 @@ Welcome to the Joint Workshop Repository between UC DEVS, UC ROBO & UC Cybersecu
 * [Introduction To Virtualization & Proxmox](./Networking/Proxmox/ProxmoxIntro.md)
 ### Linux
 * [How to Install Matlab on Linux](./Linux/MatlabLinux/README.md)
+### MacOS
+* [How to Install Homebrew Package Manager onto your system](./Mac/HomeBrew/HomeBrewInstall.md)
 ### Self Hosting
 * [Introduction to Remote VPN Connections via Tailscale](/Networking/SelfHosting/IntroToTailScaleVPN.md)
 

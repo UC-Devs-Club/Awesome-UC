@@ -37,7 +37,7 @@ Why it matters for you specifically:
 **Windows**: Download and run the installer from [git-scm.com](https://git-scm.com/downloads). During setup, the default options are fine for beginners but just remember to make sure "Git Bash" and "Add Git to PATH" are selected.
 
 **macOS**:
-
+If you do not have Homebrew already installed onto your system, please check out our guide [here.](../../Mac/HomeBrew/HomeBrewInstall.md)
 ```bash
 # Via Homebrew
 brew install git
